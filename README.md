@@ -1,12 +1,12 @@
 <div align="center">
   <h2>
-    Hi, I’m Muhammad Qasim Akhund <br/>
-    Next.js & React.js Frontend Developer | MERN Stack Developer <br/>
-    Building fast, responsive, and user-friendly web applications
+    Muhammad Qasim Akhund <br/>
+    Next.js & React.js Frontend Developer | MERN Stack Developer
   </h2>
+  <p>
+    Building fast, responsive, and scalable web applications
+  </p>
 </div>
-
-### <div align="center">"Stay curious. Build daily. Grow consistently."</div>
 
 <div align="center">
   <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece1.gif" width="30%" />
@@ -20,26 +20,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m a **Next.js & React.js Frontend Developer** with **4+ years of experience** building modern, responsive, and scalable web applications. I mainly work with **Next.js, React.js, TypeScript, and Tailwind CSS**, and I also have solid backend experience using the **MERN stack**.
+I am a **Next.js and React.js Frontend Developer** with over **4 years of experience** in building modern, responsive, and production-ready web applications. I specialize in creating clean, maintainable user interfaces and scalable full-stack solutions using the **MERN stack**.
 
-I focus on writing **clean code**, improving **performance**, and building interfaces that are easy to use on all devices. I have worked on **remote and international projects**, collaborating with teams to deliver production-ready applications.
-
----
-
-## 🚀 What I Do Best
-
-- Build **SEO-friendly and high-performance** web apps using **Next.js & React.js**
-- Develop **REST APIs** with **Node.js, Express.js, and MongoDB**
-- Create **responsive UI** using Tailwind CSS, Flexbox, and CSS Grid
-- Optimize applications for **speed, scalability, and maintainability**
-- Handle **manual deployments on AWS** and review deployment-related code
-- Work comfortably with **remote teams** and real-world projects
+I have experience working with **remote and international teams**, delivering real-world applications, and maintaining high code quality standards. My focus is on performance, usability, and writing code that is easy to understand and maintain.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Expertise
+
+- Developing SEO-friendly and high-performance applications using **Next.js and React.js**
+- Building and consuming **RESTful APIs** with **Node.js, Express.js, and MongoDB**
+- Designing responsive layouts using **Tailwind CSS, Flexbox, and CSS Grid**
+- Improving application performance through refactoring and optimization
+- Managing and reviewing **AWS deployment-related code**
+- Performing **manual deployments on AWS** for production environments
+- Collaborating effectively in remote, cross-functional teams
+
+---
+
+## Technical Skills
 
 ### Frontend
 - Next.js  
@@ -55,82 +56,73 @@ I focus on writing **clean code**, improving **performance**, and building inter
 - Express.js  
 - MongoDB  
 
-### Tools & Workflow
-- Git & GitHub  
-- REST APIs  
-- AWS (manual deployment & environment management)  
-- Responsive Design  
-- SEO Optimization  
+### Tools & Practices
+- Git and GitHub  
+- REST API integration  
+- AWS (manual deployment and environment management)  
+- Responsive design principles  
+- SEO optimization  
+- Clean code and code reviews  
 
 ---
 
-## 💼 Experience Snapshot
+## Professional Experience
 
-- **MERN Stack Developer (Remote)** – Terapage (UK)  
-  - Worked on production MERN applications  
-  - Managed AWS deployment code and performed manual deployments  
-  - Improved performance and code quality through refactoring  
+### MERN Stack Developer (Remote)  
+**Terapage – United Kingdom**  
+**October 2025 – January 2026**
 
-- **MERN & Next.js Developer** – Hoop Interactive  
-  - Built SEO-friendly Next.js applications  
-  - Developed APIs and backend features  
-  - Delivered e-commerce and business websites  
+- Developed and maintained scalable MERN stack applications for production use.  
+- Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB.  
+- Managed and reviewed AWS deployment-related code for backend and frontend services.  
+- Performed manual application deployments on AWS to ensure stable releases.  
+- Improved application performance and maintainability through refactoring and best practices.  
+- Collaborated with remote teams to deliver reliable and user-focused features.
 
----
+### MERN & Next.js Developer  
+**Hoop Interactive – Pakistan**  
+**February 2025 – Present**
 
-## 📌 Highlight Projects
-
-- **Tour Booking Application**  
-  React-based SPA with booking flow, API integration, and responsive design. Improved load time using lazy loading.
-
-- **To-Do Web App**  
-  Task management app with persistent storage and real-time UI updates.
-
-- **Portfolio Website**  
-  Built with modern UI, smooth scrolling, animations, and responsive layout.
-
-- **Quiz Application**  
-  Interactive quiz system with instant feedback and responsive design.
+- Built responsive and SEO-optimized web applications using Next.js, React.js, and Tailwind CSS.  
+- Developed backend features and APIs using Node.js, Express.js, and MongoDB.  
+- Delivered custom business and e-commerce websites based on client requirements.  
+- Focused on performance, accessibility, and cross-device compatibility.
 
 ---
 
-## 📚 Currently Improving
+## Selected Projects
 
-- Advanced React patterns (Context API, state management)
-- Next.js app router & performance optimization
-- Backend optimization with Node.js & MongoDB
-- Better system design and production-level practices
+### Tour Booking Application
+A React-based single-page application that allows users to browse tours and make bookings. Integrated APIs, improved performance using lazy loading, and implemented fully responsive layouts.
 
----
+### To-Do Web Application
+A task management application with persistent storage, real-time UI updates, and a clean, responsive interface.
 
-## 📫 Connect With Me
+### Portfolio Website
+A modern personal portfolio featuring smooth scrolling, structured navigation, and responsive design across all devices.
 
-<div align="center">
-  <a href="https://github.com/muhammadqasimakhund">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadqasimakhund">
-    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muhammadqasimakhund@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+### Online Quiz Application
+An interactive quiz application with instant feedback, responsive design, and consistent performance across platforms.
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammadqasimakhund&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadqasimakhund&show_icons=true&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadqasimakhund&layout=compact&theme=tokyonight" />
-</div>
+- Advanced React patterns and state management
+- Next.js performance optimization and best practices
+- Backend optimization using Node.js and MongoDB
+- Writing scalable and maintainable production code
+
+---
+
+## Contact
+
+- GitHub: https://github.com/muhammadqasimakhund  
+- LinkedIn: https://linkedin.com/in/muhammadqasimakhund  
+- Email: muhammadqasimakhund@gmail.com  
 
 ---
 
 <div align="center">
-  <strong>Let’s build fast, reliable, and meaningful web experiences.</strong>
+  <strong>Focused on delivering reliable, high-quality web solutions.</strong>
 </div>
