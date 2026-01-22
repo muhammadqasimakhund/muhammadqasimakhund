@@ -1,128 +1,111 @@
-<div align="center">
-  <h2>
-    Muhammad Qasim Akhund <br/>
-    Next.js & React.js Frontend Developer | MERN Stack Developer
-  </h2>
-  <p>
-    Building fast, responsive, and scalable web applications
-  </p>
-</div>
+# Muhammad Qasim Akhund
+Next.js & React.js Frontend Developer | MERN Stack Developer  
+Building fast, accessible, and scalable web applications
 
-<div align="center">
-  <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece1.gif" width="30%" />
-  <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece3.gif" width="30%" />
-  <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece2.webp" width="30%" />
-</div>
-
-<div align="center">
-  <h6>Yes, I love One Piece — I code with focus, consistency, and growth.</h6>
-</div>
+[GitHub](https://github.com/muhammadqasimakhund) • [LinkedIn](https://linkedin.com/in/muhammadqasimakhund) • muhammadqasimakhund@gmail.com
 
 ---
 
-## About Me
+About
+-----
+I am a Frontend-focused MERN developer with strong expertise in Next.js and React.js, and over 4 years of practical experience delivering production-ready web applications. I focus on performance, accessibility, and maintainability — building SEO-friendly, responsive interfaces while also implementing robust backend services when needed. I enjoy working in distributed teams, taking ownership of features from design and implementation through deployment and monitoring.
 
-I am a **Next.js and React.js Frontend Developer** with over **4 years of experience** in building modern, responsive, and production-ready web applications. I specialize in creating clean, maintainable user interfaces and scalable full-stack solutions using the **MERN stack**.
+Core expertise
+--------------
+- Building SEO-friendly, high-performance web applications with Next.js and React.js
+- Creating responsive, accessible UI using Tailwind CSS, CSS Grid, and Flexbox
+- Implementing backend APIs using Node.js, Express.js, and MongoDB
+- Optimizing performance: code-splitting, lazy-loading, image optimization, and caching strategies
+- Reviewing and improving deployment-related infrastructure and delivery on AWS
+- Collaborative development: code reviews, documentation, and test-driven improvements
 
-I have experience working with **remote and international teams**, delivering real-world applications, and maintaining high code quality standards. My focus is on performance, usability, and writing code that is easy to understand and maintain.
+Technical skills
+----------------
+Frontend
+- Next.js, React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 
----
+Backend
+- Node.js, Express.js, MongoDB, RESTful API design
 
-## Core Expertise
+Tools & practices
+- Git, GitHub, branching workflows, pull requests, code review
+- CI/CD concepts, manual and scripted deployments on AWS
+- Responsive design, SEO optimization, accessibility best practices
+- Environment & configuration management, basic DevOps for web deployments
 
-- Developing SEO-friendly and high-performance applications using **Next.js and React.js**
-- Building and consuming **RESTful APIs** with **Node.js, Express.js, and MongoDB**
-- Designing responsive layouts using **Tailwind CSS, Flexbox, and CSS Grid**
-- Improving application performance through refactoring and optimization
-- Managing and reviewing **AWS deployment-related code**
-- Performing **manual deployments on AWS** for production environments
-- Collaborating effectively in remote, cross-functional teams
+Professional experience (high level)
+------------------------------------
+MERN Stack Developer (Remote)  
+Terapage – United Kingdom  
+October 2025 – Present
+- Developed and maintained production MERN applications, focusing on scalability and reliability.
+- Built RESTful APIs and collaborated on deployment-related changes and reviews.
+- Performed manual AWS deployments and maintained environment stability.
+- Improved performance and maintainability through refactors and best practices.
 
----
+MERN & Next.js Developer  
+Hoop Interactive – Pakistan  
+February 2025 – October 2025
+- Built responsive, SEO-optimized sites using Next.js and Tailwind CSS.
+- Developed backend functionality and integrated APIs for business and e-commerce platforms.
+- Focused on accessibility, performance, and cross-device compatibility.
 
-## Technical Skills
+Selected projects
+-----------------
+Tour Booking Application  
+- Description: SPA for browsing tours and making bookings with responsive UI and efficient data loading.  
+- Highlights: API integration, lazy loading, responsive layouts.  
+- Tech: React, REST APIs, Tailwind CSS
 
-### Frontend
-- Next.js  
-- React.js  
-- JavaScript (ES6+)  
-- TypeScript  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
+To-Do Web Application  
+- Description: Task management app with persistent storage and real-time-feeling UI.  
+- Highlights: Local persistence, optimistic UI updates, clean UX.  
+- Tech: React, local storage / backend persistence
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
+Portfolio Website  
+- Description: Personal portfolio featuring structured navigation, smooth scrolling, and responsive design.  
+- Highlights: Demonstrates modern frontend patterns, performance-first approach.  
+- Tech: Next.js, Tailwind CSS
 
-### Tools & Practices
-- Git and GitHub  
-- REST API integration  
-- AWS (manual deployment and environment management)  
-- Responsive design principles  
-- SEO optimization  
-- Clean code and code reviews  
+Online Quiz Application  
+- Description: Interactive quiz app with instant feedback and cross-platform responsive UI.  
+- Highlights: Fast, accessible interactions and clear result summaries.  
+- Tech: React, client-side state management
 
----
+Contributions & impact
+----------------------
+- Performance improvements: refactored client bundles, reduced render-blocking resources, and increased Lighthouse scores on multiple projects.
+- API & backend work: implemented stable REST endpoints, error handling, and validation to improve reliability.
+- Deployment & operations: reviewed deployment scripts and performed manual releases on AWS to ensure production stability.
+- Team collaboration: active in code reviews, documentation, and mentoring juniors to raise code quality and consistency.
 
-## Professional Experience
+How I work
+----------
+- Product-driven development: I pair UX considerations with performance and maintainability.
+- Component-first approach: modular, reusable components with clear props/contracts and accessible semantics.
+- Incremental optimization: ship MVP fast, then iterate — measure and improve performance based on telemetry.
+- Code quality: consistent linting, unit/ integration tests where appropriate, and thorough code reviews.
+- Communication: clear PR descriptions, well-scoped issues, and frequent updates during remote collaboration.
 
-### MERN Stack Developer (Remote)  
-**Terapage – United Kingdom**  
-**October 2025 – Present**
+What I’m working on
+--------------------
+- Advanced React patterns and state management strategies for large apps.
+- Next.js performance optimizations and static + dynamic rendering best practices.
+- Backend optimization patterns for Node.js and scaling MongoDB-backed APIs.
+- Improving CI/CD flows and automating more parts of the deployment pipeline.
 
-- Developed and maintained scalable MERN stack applications for production use.  
-- Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB.  
-- Managed and reviewed AWS deployment-related code for backend and frontend services.  
-- Performed manual application deployments on AWS to ensure stable releases.  
-- Improved application performance and maintainability through refactoring and best practices.  
-- Collaborated with remote teams to deliver reliable and user-focused features.
+How to collaborate / hire me
+----------------------------
+- I’m open to full-time and contract opportunities, remote-first roles, and collaboration on product-focused startups.
+- When working together I can own features end-to-end: design discussions, implementation, testing, and deployments.
+- Preferred workflow: GitHub pull requests, incremental milestones, and collaborative code reviews.
 
-### MERN & Next.js Developer  
-**Hoop Interactive – Pakistan**  
-**February 2025 – October 2025**
+Contact
+-------
+- GitHub: [github.com/muhammadqasimakhund](https://github.com/muhammadqasimakhund)  
+- LinkedIn: [linkedin.com/in/muhammadqasimakhund](https://linkedin.com/in/muhammadqasimakhund)  
+- Email: muhammadqasimakhund@gmail.com
 
-- Built responsive and SEO-optimized web applications using Next.js, React.js, and Tailwind CSS.  
-- Developed backend features and APIs using Node.js, Express.js, and MongoDB.  
-- Delivered custom business and e-commerce websites based on client requirements.  
-- Focused on performance, accessibility, and cross-device compatibility.
-
----
-
-## Selected Projects
-
-### Tour Booking Application
-A React-based single-page application that allows users to browse tours and make bookings. Integrated APIs, improved performance using lazy loading, and implemented fully responsive layouts.
-
-### To-Do Web Application
-A task management application with persistent storage, real-time UI updates, and a clean, responsive interface.
-
-### Portfolio Website
-A modern personal portfolio featuring smooth scrolling, structured navigation, and responsive design across all devices.
-
-### Online Quiz Application
-An interactive quiz application with instant feedback, responsive design, and consistent performance across platforms.
-
----
-
-## Current Focus
-
-- Advanced React patterns and state management
-- Next.js performance optimization and best practices
-- Backend optimization using Node.js and MongoDB
-- Writing scalable and maintainable production code
-
----
-
-## Contact
-
-- GitHub: https://github.com/muhammadqasimakhund  
-- LinkedIn: https://linkedin.com/in/muhammadqasimakhund  
-- Email: muhammadqasimakhund@gmail.com  
-
----
-
-<div align="center">
-  <strong>Focused on delivering reliable, high-quality web solutions.</strong>
-</div>
+Closing
+-------
+Focused on delivering reliable, high-quality web solutions that balance user experience, performance, and long-term maintainability. If you'd like a tailored summary for a specific role, repo, or project, I can expand the README further with per-project details, screenshots, architecture diagrams, or contribution highlights.
