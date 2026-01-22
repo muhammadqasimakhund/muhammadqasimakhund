@@ -2,13 +2,13 @@
 Next.js & React.js Frontend Developer | MERN Stack Developer  
 Building fast, accessible, and scalable web applications
 
-[GitHub](https://github.com/muhammadqasimakhund) • [LinkedIn](https://linkedin.com/in/muhammadqasimakhund) • muhammadqasimakhund@gmail.com
+[LinkedIn](https://linkedin.com/in/muhammadqasimakhund) • muhammadqasimakhund@gmail.com
 
 ---
 
 About
 -----
-I am a Frontend-focused MERN developer with strong expertise in Next.js and React.js, and over 4 years of practical experience delivering production-ready web applications. I focus on performance, accessibility, and maintainability — building SEO-friendly, responsive interfaces while also implementing robust backend services when needed. I enjoy working in distributed teams, taking ownership of features from design and implementation through deployment and monitoring.
+I am a Frontend-focused MERN developer with strong expertise in Next.js and React.js, and over 4 years of practical experience delivering production-ready web applications. I focus on performance, accessibility, and maintainability, building SEO-friendly, responsive interfaces while also implementing robust backend services when needed. I enjoy working in distributed teams, taking ownership of features from design and implementation through deployment and monitoring.
 
 Core expertise
 --------------
