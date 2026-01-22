@@ -70,7 +70,7 @@ I have experience working with **remote and international teams**, delivering re
 
 ### MERN Stack Developer (Remote)  
 **Terapage – United Kingdom**  
-**October 2025 – January 2026**
+**October 2025 – Present**
 
 - Developed and maintained scalable MERN stack applications for production use.  
 - Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB.  
@@ -81,7 +81,7 @@ I have experience working with **remote and international teams**, delivering re
 
 ### MERN & Next.js Developer  
 **Hoop Interactive – Pakistan**  
-**February 2025 – Present**
+**February 2025 – October 2025**
 
 - Built responsive and SEO-optimized web applications using Next.js, React.js, and Tailwind CSS.  
 - Developed backend features and APIs using Node.js, Express.js, and MongoDB.  
